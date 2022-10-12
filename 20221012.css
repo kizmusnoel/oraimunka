@@ -1,0 +1,23 @@
+#igazgato {
+    border: 10px solid red;
+}
+
+.tanar {
+    border: 10px solid darkgrey;
+    padding: 5px;
+    margin: 0 20px;
+}
+
+.fontos {
+    color: red;
+    font-weight: bold;
+}
+
+.szellos {
+    letter-spacing: 3px;
+}
+
+ul {
+    /* list-style: square; */
+    list-style-image: url("images/balogh.bence.kicsi.jpg");
+}
