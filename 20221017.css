@@ -9,6 +9,28 @@ table, td, th {
     border-collapse: collapse;
 }
 
+th {
+    background-color: #222;
+    color: #CCC;
+}
+
+td, th {
+    padding: 10px;
+}
+
 div p {
     background-color: aquamarine;
+}
+
+.közép {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+}
+
+hr {
+    margin: 20px 0;
+    border: 5px solid black;
 }
